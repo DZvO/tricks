@@ -6,3 +6,6 @@ Fetches all the new stuff from origin, but keeps HEAD and the working tree untou
   
 **git push origin branchname**  
 Pushes the branch into origin, creating it if it doesn't exist yet
+
+**git pull origin branchname**
+Pull changes on branchname from origin into local branchname
