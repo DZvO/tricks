@@ -9,7 +9,7 @@ Fetches all the new stuff from origin, but keeps HEAD and the working tree untou
 Pushes the branch into origin. Creating it, if it doesn't exist yet.
 
 **git pull origin branchname**
-Pull changes on branchname from origin into local branchname.
+Pull changes on branchname from origin into local branchname.  
 
 # Gimp #
 **Alt = move selection mask, Alt+Ctrl = move selected pixels, Alt+Shift = copy selected pixels**  
