@@ -12,5 +12,5 @@ Pushes the branch into origin. Creating it, if it doesn't exist yet.
 Pull changes on branchname from origin into local branchname.
 
 # Gimp #
-**Alt = move selection mask, Alt+Ctrl = move selected pixels, Alt+Shift = copy selected pixels**
+**Alt = move selection mask, Alt+Ctrl = move selected pixels, Alt+Shift = copy selected pixels**  
 Move stuff 'round.
